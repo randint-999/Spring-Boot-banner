@@ -79,8 +79,8 @@ private Banner getBanner(Environment environment) {
  Banner printedBanner = this.printBanner(environment);
 ```
 
-这个 `this.printBanner(environment)` 里面就从 `SpringApplicationBannerPrinter` 的 `print` 方法，`print` 方法再调用 `getBanner` 方法，最终初始化项目把 banner 打印出来
-
+这个 `this.printBanner(environment)` 里面调用 `SpringApplicationBannerPrinter` 的 `print` 方法打印出 banner，`print` 方法调用 `getBanner` 方法，最终初始化项目把 banner 打印出来
+> 说的不太清楚有空再完善了
 
 
 
