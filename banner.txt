@@ -1,0 +1,33 @@
+${AnsiColor.BRIGHT_BLACK}      ▐▒▒░▄
+${AnsiColor.BRIGHT_BLACK}         ▒▒▒▒▒▒▒▒▄
+${AnsiColor.BRIGHT_BLACK}         ▐▒▒▒▒▒▒▒▒▒▒▒▄                                                                         ▄▄▒▒
+${AnsiColor.BRIGHT_BLACK}          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▄                                                               ▄▄▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_BLACK}          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄                                                       ▄▒▒▒▒▒▒▒▒▒▒▒▒▒▌
+${AnsiColor.BRIGHT_BLACK}           ▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▄                                               ▄▒▒▒${AnsiColor.BRIGHT_BLACK}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_BLACK}            ▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒                                        ▄░▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_BLACK}▒▒▒▒▒▒▒▒▒▒▒▒░
+${AnsiColor.BRIGHT_BLACK}             ▐▒▒▒▒▒${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄                                ▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_BLACK}▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}               ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▄▄▄▄░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_BLACK}▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                ▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_BLACK}▒▀
+${AnsiColor.BRIGHT_YELLOW}                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                      ▀▒▒▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀
+${AnsiColor.BRIGHT_YELLOW}                         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒▒▒▒▀
+${AnsiColor.BRIGHT_YELLOW}                       ▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░
+${AnsiColor.BRIGHT_YELLOW}                       ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                      ▒▒▒▒▒▒▒▒▒▒░▄▄▄  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▄▄▄  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                     ▒▒▒▒▒▒▒▒▒▒▒ ▀█▀   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▐██▀   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒░
+${AnsiColor.BRIGHT_YELLOW}                    ▒▒▒▒▒▒▒▒▒▒▒▒       ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░       ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                   ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▄   ▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄   ▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▀▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                  ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▄  ▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                  ▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                 ▐▒${AnsiColor.BRIGHT_RED}░░░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▐▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                 ▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ${AnsiColor.BRIGHT_RED}░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▐▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                 ▐▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ${AnsiColor.RED}▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_YELLOW} ▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_RED}░░░░░░░░░░░${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ${AnsiColor.RED}▒▒▒▒▒▒▒▒▒▒▒░${AnsiColor.BRIGHT_YELLOW}▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${AnsiColor.BRIGHT_RED}░░░░░${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                  ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ${AnsiColor.RED}▒▒▒▒▒▒▒▒▒▒░${AnsiColor.BRIGHT_YELLOW}▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄░${AnsiColor.RED}▒▒▒▒${AnsiColor.BRIGHT_YELLOW}░▄▀${AnsiColor.BRIGHT_YELLOW}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+${AnsiColor.BRIGHT_YELLOW}                    ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+${AnsiColor.GREEN}                                           ::Lareina-Blog::
+${AnsiColor.BRIGHT_RED}                                  Spring Boot Version: ${spring-boot.formatted-version}
